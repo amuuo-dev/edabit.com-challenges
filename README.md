@@ -1,3 +1,3 @@
-## Times that i need something to do i will be pushing some challenges solved from
+## Times that i need something to do i will be pushing some challenges solved from very Easy, Easy , Medium to Hard
 
-## very Easy, Easy , Medium to Hard
+# maybe ill be adding one challenges in the 6 categories ,,
