@@ -41,8 +41,14 @@ const equivalents = {
 };
 
 function getEquaivalent(note) {
-  return equivalents[note];
+  const keys = Object.keys(equivalents).find(
+    (k) => k.toLowerCase() === note.toLowerCase()
+  );
+  return keys ? equivalents[keys] : "not found";
 }
 console.log(getEquaivalent("D#"));
 console.log(getEquaivalent("Gb"));
 console.log(getEquaivalent("Bb"));
+console.log(getEquaivalent("gb"));
+console.log(getEquaivalent("d#"));
+console.log(getEquaivalent("anto"));
