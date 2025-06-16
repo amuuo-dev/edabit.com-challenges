@@ -27,4 +27,6 @@
 8;
 // console.log(1 + "2" + "2");
 9;
-console.log(String.raw`HelloTwitter\nworld`);
+// console.log(String.raw`HelloTwitter\nworld`);
+10;
+console.log("This is a string." instanceof String);
