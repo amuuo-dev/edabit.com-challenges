@@ -1,6 +1,12 @@
+1;
 // console.log(018 - 015);
+2;
 // console.log(typeof typeof 1);
+3;
 // const numbers = [33, 2, 8];
 // numbers.sort();
 // console.log(numbers[1]);
-console.log(false == "0");
+4;
+// console.log(false == "0");
+5;
+console.log(0.1 + 0.2 == 0.3);
