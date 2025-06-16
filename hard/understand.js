@@ -30,3 +30,6 @@
 // console.log(String.raw`HelloTwitter\nworld`);
 10;
 console.log("This is a string." instanceof String);
+//now have understood
+typeof "hello"; // "string"
+typeof new String("hi"); // "object"
