@@ -25,4 +25,6 @@
 // const isFalse = true == ![];
 // console.log(isTrue + isFalse);
 8;
-console.log(1 + "2" + "2");
+// console.log(1 + "2" + "2");
+9;
+console.log(String.raw`HelloTwitter\nworld`);
