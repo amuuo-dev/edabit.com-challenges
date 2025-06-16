@@ -21,6 +21,8 @@
 // a[2] = 21;
 // console.log(a);
 7;
-const isTrue = true == [];
-const isFalse = true == ![];
-console.log(isTrue + isFalse);
+// const isTrue = true == [];
+// const isFalse = true == ![];
+// console.log(isTrue + isFalse);
+8;
+console.log(1 + "2" + "2");
