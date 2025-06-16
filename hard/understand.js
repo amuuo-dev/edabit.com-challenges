@@ -9,4 +9,8 @@
 4;
 // console.log(false == "0");
 5;
-console.log(0.1 + 0.2 == 0.3);
+// console.log(0.1 + 0.2 == 0.3);
+6;
+let array = [1, 2, 3];
+array[6] = 9;
+console.log(array[5]);
