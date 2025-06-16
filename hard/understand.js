@@ -13,4 +13,10 @@
 6;
 let array = [1, 2, 3];
 array[6] = 9;
-console.log(array[5]);
+// console.log(array[5]);
+//some addition from me:
+const a = new Array(4);
+console.log(a);
+console.log(a[2]);
+a[2] = 21;
+console.log(a);
